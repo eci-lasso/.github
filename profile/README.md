@@ -18,6 +18,8 @@
 
 <p>See <a href="https://github.com/eci-lasso/single-project-form" target="_blank">single-project-form</a> for a single-project submission example and <a href="https://github.com/eci-lasso/multi-project-form">multi-project-form</a> for a multi-project submission example.</p>
 
+<p><b>DO NOT</b> edit the files in the <b>SRC</b> folder as this will impact the data being submitted to Lasso.</p>
+
 <h3><a name="other-methods">Using Other Methods</a></h3>
 
 <p>Simpler methods of creating submission forms are available as shown under <a href="https://github.com/eci-lasso/legacy-forms" target="_blank">legacy-forms</a>; however, these methods are not recommended as they are outdated and increase the chances of getting spam submissions</p>
