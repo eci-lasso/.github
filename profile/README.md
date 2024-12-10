@@ -8,7 +8,7 @@
 
 <p>The <a href="https://customerportal.ecisolutions.com/s/article/Lasso-Integrations-Lasso-API-and-Integrations" target="_blank">Lasso API and Integrations</a> help article contains instructions on accessing and using the API, and the <a href="https://customerportal.ecisolutions.com/s/article/Lasso-Project-Admin-Center-Manage-Website-Tracking-Website-Analytics" target="_blank">Add Website Tracking</a> help article contains instructions on setting up website tracking.</p>
 
-<p>For WordPress forms, the plugin can be downloaded from <a href="https://github.com/eci-lasso/wp-plugin" target="_blank">wp-plugin</a> and set up as per the instructions in the <a href="https://customerportal.ecisolutions.com/s/article/Lasso-Integrations-Integrate-Online-Form-Registration-Page-with-Lasso" target="_blank">Integrate Online Form (Registration Page) with Lasso</a> help article.</p>
+<p>For WordPress forms, the plugin can be downloaded from <a href="https://github.com/eci-lasso/wp-plugin" target="_blank">wp-plugin</a> and set up as per the instructions in the <a href="https://customerportal.ecisolutions.com/s/article/Lasso-Integrations-Connect-Online-Form-Registration-Page-with-Lasso?language=en_US" target="_blank">Integrate Online Form (Registration Page) with Lasso</a> help article.</p>
 
 <p>Troubleshooting tips are available in the <a href="https://customerportal.ecisolutions.com/s/article/Lasso-Integrations-Lead-Capture-Best-Practices-and-Troubleshooting" target="_blank">Lead Capture Best Practices and Troubleshooting</a> help article.</p>
 
